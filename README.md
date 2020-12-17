@@ -1,3 +1,3 @@
-# jeongwon-iee
+# algorithm study
 
-알고리즘 
+### 1주차
